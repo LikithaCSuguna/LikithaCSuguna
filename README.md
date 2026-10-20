@@ -11,7 +11,7 @@
 
 * Computer Science & Engineering Student (Class of 2027)
 * Passionate about Software Engineering, Backend Development, Cloud Computing, and Distributed Systems
-* Building applications using Java, Spring Boot, React, Flutter, PostgreSQL, MySQL, Docker, and AWS
+* Building applications using  Java, Spring Boot, Python, React, Flutter, PostgreSQL, MySQL, Docker, and AWS
 * GeeksforGeeks Campus Mantri | Technical Contributor at KVGCE Open Source Community
 * Institutional Rank 1 on GeeksforGeeks with 300+ DSA problems solved and a 160+ day Problem of the Day streak
 * Technical writer sharing insights on Java, Spring Boot, DSA, AI, Cloud Computing, and Software Engineering
